@@ -1,54 +1,42 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+<h2>Portfolio</h2>
 
-  <br />
-  <br />
+<h3 align="center">Project Details and Links</h3>
 
-  <h2 align="center">Personal Portfolio Website</h2>
+<p>These projects are freely available for use in building a website. They are responsive for all devices and built using HTML, CSS, and JavaScript.</p>
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
-
+<h4 align="center" width="100%">Portfolio Screenshots Demo</h4>
+<div align="center" width="100%">
+    <img src="./assets/images/portfolio-image.jpg" alt="Portfolio-1 Demo" title="Desktop Demo" width="80%">
 </div>
 
-<br />
+<div align="center">
+    <a href="https://mugambi12.github.io/personal_portfolio>"><strong>➥ Live Demo</strong></a>
+</div>
 
-### Demo Screeshots
-
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
+<h2 align="center">Prerequisites</h2>
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+<h2 align="center">Run Locally</h2>
 
-To run **Portfolio** locally, run this command on your git bash:
+To run **these elements** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
+sudo git clone https://github.com/Mugambi12/personal_portfolio>.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/portfolio.git
+git clone https://github.com/Mugambi12/personal_portfolio>.git
 ```
 
-### Contact
+#### License
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-### License
-
-This project is **free to use** and does not contains any license.
+---
