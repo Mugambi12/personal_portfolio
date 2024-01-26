@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <a href="https://mugambi12.github.io/personal_portfolio>"><strong>➥ Live Demo</strong></a>
+    <a href="https://mugambi12.github.io/personal_portfolio"><strong>➥ Live Demo</strong></a>
 </div>
 
 <h2 align="center">Prerequisites</h2>
