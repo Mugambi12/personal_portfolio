@@ -13,13 +13,13 @@
     <a href="https://mugambi12.github.io/personal_portfolio"><strong>➥ Live Demo</strong></a>
 </div>
 
-<h2 align="center">Prerequisites</h2>
+### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<h2 align="center">Run Locally</h2>
+### Run Locally
 
 To run **these elements** locally, run this command on your git bash:
 
