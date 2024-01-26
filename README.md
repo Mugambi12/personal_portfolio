@@ -26,13 +26,13 @@ To run **these elements** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Mugambi12/personal_portfolio>.git
+sudo git clone https://github.com/Mugambi12/personal_portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Mugambi12/personal_portfolio>.git
+git clone https://github.com/Mugambi12/personal_portfolio.git
 ```
 
 #### License
